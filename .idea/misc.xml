@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cloud_parent/eureka-server" />
+    <file type="web" url="file://$PROJECT_DIR$/cloud_parent/order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/cloud_parent/user-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cloud_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_parent/eureka-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
